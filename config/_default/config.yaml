@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: portfolio Emmanuel  # Website name
-baseurl: 'https://Emmanuel-Caranza.github.io/' # Website URL
+baseurl: 'https://Emmanuel-Carranza.github.io/' # Website URL
 copyright:'© {2021} Emmanuel Carranza'
 
 ############################
