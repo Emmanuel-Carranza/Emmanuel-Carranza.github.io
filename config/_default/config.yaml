@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: portfolio Emmanuel  # Website name
 baseurl: 'https://Emmanuel-Carranza.github.io/' # Website URL
-copyright:'© {2021} Emmanuel Carranza'
+copyright:'© {year} Emmanuel Carranza'
 
 ############################
 ## LANGUAGE
